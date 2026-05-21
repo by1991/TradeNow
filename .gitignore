@@ -1,0 +1,10 @@
+node_modules/
+.pnpm-store/
+.turbo/
+dist/
+build/
+coverage/
+.DS_Store
+apps/mobile/ios/build/
+apps/mobile/android/build/
+apps/mobile/android/.gradle/
